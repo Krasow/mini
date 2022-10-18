@@ -1,0 +1,13 @@
+
+-------------------------------------------------------
+Graph edge distribution characteristics
+-------------------------------------------------------
+Number of vertices: 3072441
+Number of edges: 234370166
+Maximum number of edges: 26492320
+Average number of edges: 1.46481e+07
+Expected value of X^2: 2.50653e+14
+Variance: 3.60849e+13
+Standard deviation: 6.00707e+06
+-------------------------------------------------------
+Time to read input file and create distributed graph (in s): 0.556108

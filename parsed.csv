@@ -1,0 +1,40 @@
+/home/cc/miniVite/outputs/18_com-orkut.ungraph.bin.out
+/home/cc/miniVite/outputs/8_com-orkut.ungraph.bin.out
+/home/cc/miniVite/outputs/15_com-orkut.ungraph.bin.out
+/home/cc/miniVite/outputs/2_com-orkut.ungraph.bin.out
+/home/cc/miniVite/outputs/5_com-orkut.ungraph.bin.out
+/home/cc/miniVite/outputs/14_com-orkut.ungraph.bin.out
+/home/cc/miniVite/outputs/13_com-orkut.ungraph.bin.out
+/home/cc/miniVite/outputs/19_com-orkut.ungraph.bin.out
+/home/cc/miniVite/outputs/4_com-orkut.ungraph.bin.out
+/home/cc/miniVite/outputs/16_com-orkut.ungraph.bin.out
+/home/cc/miniVite/outputs/17_com-orkut.ungraph.bin.out
+/home/cc/miniVite/outputs/3_com-orkut.ungraph.bin.out
+/home/cc/miniVite/outputs/12_com-orkut.ungraph.bin.out
+/home/cc/miniVite/outputs/20_com-orkut.ungraph.bin.out
+/home/cc/miniVite/outputs/10_com-orkut.ungraph.bin.out
+/home/cc/miniVite/outputs/6_com-orkut.ungraph.bin.out
+/home/cc/miniVite/outputs/9_com-orkut.ungraph.bin.out
+/home/cc/miniVite/outputs/7_com-orkut.ungraph.bin.out
+/home/cc/miniVite/outputs/11_com-orkut.ungraph.bin.out
+/home/cc/miniVite/outputs/1_com-orkut.ungraph.bin.out
+                     File  Processes     Time  Modularity  Iterations      MODS
+0   com-orkut.ungraph.bin       18.0  327.562    0.632032        87.0  207.0300
+1   com-orkut.ungraph.bin        8.0  280.222    0.632144        91.0  177.1410
+2   com-orkut.ungraph.bin       15.0  343.469    0.632376        97.0  217.2010
+3   com-orkut.ungraph.bin        2.0  176.356    0.632144        91.0  111.4820
+4   com-orkut.ungraph.bin        5.0  250.104    0.632130        92.0  158.0980
+5   com-orkut.ungraph.bin       14.0  321.429    0.632145        91.0  203.1900
+6   com-orkut.ungraph.bin       13.0  302.878    0.632113        89.0  191.4530
+7   com-orkut.ungraph.bin       19.0  345.127    0.632127        91.0  218.1640
+8   com-orkut.ungraph.bin        4.0  240.192    0.632144        91.0  151.8360
+9   com-orkut.ungraph.bin       17.0  330.158    0.632136        91.0  208.7050
+10  com-orkut.ungraph.bin        3.0  199.738    0.632144        91.0  126.2630
+11  com-orkut.ungraph.bin       12.0  299.208    0.632121        91.0  189.1360
+12  com-orkut.ungraph.bin       20.0  355.709    0.632146        91.0  224.8600
+13  com-orkut.ungraph.bin       10.0  285.106    0.632101        91.0  180.2160
+14  com-orkut.ungraph.bin        6.0  252.561    0.632146        91.0  159.6550
+15  com-orkut.ungraph.bin        9.0  298.243    0.632335        99.0  188.5900
+16  com-orkut.ungraph.bin        7.0  273.931    0.632149        91.0  173.1650
+17  com-orkut.ungraph.bin       11.0  280.246    0.632144        91.0  177.1560
+18  com-orkut.ungraph.bin        1.0   66.981    0.632144        91.0   42.3416

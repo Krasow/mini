@@ -1,0 +1,23 @@
+
+-------------------------------------------------------
+Graph edge distribution characteristics
+-------------------------------------------------------
+Number of vertices: 3072441
+Number of edges: 234370166
+Maximum number of edges: 21807018
+Average number of edges: 1.17185e+07
+Expected value of X^2: 1.62778e+14
+Variance: 2.54547e+13
+Standard deviation: 5.04526e+06
+-------------------------------------------------------
+Time to read input file and create distributed graph (in s): 0.480395
+-------------------------------------------------------
+File: com-orkut.ungraph.bin
+-------------------------------------------------------
+-------------------------------------------------------
+64-bit datatype
+-------------------------------------------------------
+Average total time (in s), #Processes: 355.709, 20
+Modularity, #Iterations: 0.632146, 91
+MODS (final modularity * average time): 224.86
+-------------------------------------------------------
