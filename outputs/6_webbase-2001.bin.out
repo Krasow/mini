@@ -4,20 +4,20 @@ Graph edge distribution characteristics
 -------------------------------------------------------
 Number of vertices: 118142155
 Number of edges: 1985689782
-Maximum number of edges: 145056629
-Average number of edges: 1.16805e+08
-Expected value of X^2: 1.40315e+16
-Variance: 3.87977e+14
-Standard deviation: 1.96971e+07
+Maximum number of edges: 379957152
+Average number of edges: 3.30948e+08
+Expected value of X^2: 1.10523e+17
+Variance: 9.96395e+14
+Standard deviation: 3.15657e+07
 -------------------------------------------------------
-Time to read input file and create distributed graph (in s): 246.188
+Time to read input file and create distributed graph (in s): 199.865
 -------------------------------------------------------
 File: webbase-2001.bin
 -------------------------------------------------------
 -------------------------------------------------------
 64-bit datatype
 -------------------------------------------------------
-Average total time (in s), #Processes: 194.226, 17
+Average total time (in s), #Processes: 232.949, 6
 Modularity, #Iterations: 0.458128, 14
-MODS (final modularity * average time): 88.9803
+MODS (final modularity * average time): 106.721
 -------------------------------------------------------

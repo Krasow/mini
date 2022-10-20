@@ -1,0 +1,15 @@
+
+-------------------------------------------------------
+Graph edge distribution characteristics
+-------------------------------------------------------
+Number of vertices: 118142155
+Number of edges: 1985689782
+Maximum number of edges: 333756771
+Average number of edges: 2.8367e+08
+Expected value of X^2: 8.14388e+16
+Variance: 9.70184e+14
+Standard deviation: 3.11478e+07
+-------------------------------------------------------
+Time to read input file and create distributed graph (in s): 208.846
+[mpiexec@minivite-2] Sending Ctrl-C to processes as requested
+[mpiexec@minivite-2] Press Ctrl-C again to force abort

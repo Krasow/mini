@@ -1,0 +1,38 @@
+/home/cc/miniVite/outputs/3_webbase-2001.bin.out
+/home/cc/miniVite/outputs/12_webbase-2001.bin.out
+/home/cc/miniVite/outputs/8_webbase-2001.bin.out
+/home/cc/miniVite/outputs/11_webbase-2001.bin.out
+/home/cc/miniVite/outputs/7_webbase-2001.bin.out
+/home/cc/miniVite/outputs/2_webbase-2001.bin.out
+/home/cc/miniVite/outputs/6_webbase-2001.bin.out
+/home/cc/miniVite/outputs/19_webbase-2001.bin.out
+/home/cc/miniVite/outputs/1_webbase-2001.bin.out
+/home/cc/miniVite/outputs/14_webbase-2001.bin.out
+/home/cc/miniVite/outputs/5_webbase-2001.bin.out
+/home/cc/miniVite/outputs/4_webbase-2001.bin.out
+/home/cc/miniVite/outputs/9_webbase-2001.bin.out
+/home/cc/miniVite/outputs/20_webbase-2001.bin.out
+/home/cc/miniVite/outputs/15_webbase-2001.bin.out
+/home/cc/miniVite/outputs/10_webbase-2001.bin.out
+/home/cc/miniVite/outputs/18_webbase-2001.bin.out
+/home/cc/miniVite/outputs/16_webbase-2001.bin.out
+/home/cc/miniVite/outputs/17_webbase-2001.bin.out
+/home/cc/miniVite/outputs/13_webbase-2001.bin.out
+                File  Processes      Time  Modularity  Iterations      MODS
+0   webbase-2001.bin        3.0  257.6180    0.458128        14.0  118.0220
+1   webbase-2001.bin       12.0  189.7520    0.458128        14.0   86.9309
+2   webbase-2001.bin        8.0  218.8420    0.458128        14.0  100.2580
+3   webbase-2001.bin       11.0  198.8990    0.458128        14.0   91.1212
+4   webbase-2001.bin        2.0  241.1940    0.458128        14.0  110.4980
+5   webbase-2001.bin        6.0  232.9490    0.458128        14.0  106.7210
+6   webbase-2001.bin       19.0  212.0350    0.458128        14.0   97.1391
+7   webbase-2001.bin        1.0   71.5515    0.458128        14.0   32.7797
+8   webbase-2001.bin        5.0  245.5770    0.458128        14.0  112.5060
+9   webbase-2001.bin        9.0  208.8880    0.458128        14.0   95.6973
+10  webbase-2001.bin       20.0  213.9270    0.458128        14.0   98.0059
+11  webbase-2001.bin       15.0  185.3820    0.458128        14.0   84.9289
+12  webbase-2001.bin       10.0  200.2880    0.458128        14.0   91.7577
+13  webbase-2001.bin       18.0  215.7110    0.458128        14.0   98.8235
+14  webbase-2001.bin       16.0  186.4190    0.458128        14.0   85.4038
+15  webbase-2001.bin       17.0  194.2260    0.458128        14.0   88.9803
+16  webbase-2001.bin       13.0  191.2610    0.458128        14.0   87.6222
